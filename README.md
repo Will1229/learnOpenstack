@@ -1,4 +1,4 @@
-# learn_openstack
+# Learn how to use openstack SDK in python
 
 ## Setup env on windows
 
