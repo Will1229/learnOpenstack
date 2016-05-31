@@ -6,3 +6,10 @@
 
 1. install python version 2.
 2. run "pip install python-openstackclient" from cmd.
+
+
+##Text Editor
+atom with following plugins:
+- [autocomplete-python](https://github.com/sadovnychyi/autocomplete-python)
+- [hyperclick](https://atom.io/packages/hyperclick)
+- [python-tools](https://atom.io/packages/python-tools)
